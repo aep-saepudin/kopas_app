@@ -1,0 +1,3 @@
+rootProject.name = 'kopas_app'
+
+include ':app'
