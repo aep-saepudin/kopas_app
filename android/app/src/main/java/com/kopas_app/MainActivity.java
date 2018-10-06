@@ -1,4 +1,4 @@
-package com.kopas_app;
+package com.app.hack;
 
 import com.facebook.react.ReactActivity;
 
